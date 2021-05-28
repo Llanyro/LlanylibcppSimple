@@ -46,6 +46,7 @@ typedef ll_ulonglong_t ll_uint64_t;
 typedef ll_uchar_t hex;		// Usado para guardar el valor numerico de un Hexadecimal
 typedef ll_uint64_t len_t; 	// Usado para posiciones de listas y tamaños de listas -> es decir: cantidades de datos
 typedef bool ll_bool_t;
+//typedef enum { False, True } ll_bool_t;
 typedef char const* const ll_constchar_t;
 typedef void* Dynamic;
 typedef void ll_void;
